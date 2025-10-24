@@ -81,6 +81,8 @@ React (Vite)  |  Tailwind CSS  |  Framer Motion  |  JavaScript  |  Vercel (Deplo
 📂 **GitHub Repo:** [https://github.com/MadhavBeri999/AppDost](https://github.com/MadhavBeri999/AppDost)
 
 ---
+## 🎥 Demo Video
+- 🔹 Short Highlight (1 min): [Watch Here](https://youtu.be/HJDRFNncDiw)
 
 ## 🧭 Lessons Learned
 - Conducting UI/UX analysis before coding gives a clear creative direction.  
